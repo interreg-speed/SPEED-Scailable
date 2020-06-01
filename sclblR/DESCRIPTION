@@ -1,0 +1,34 @@
+Package: sclblR
+Type: Package
+Title: Scailable models in R
+Version: 0.1
+Authors@R: c(person("Robin", "van Emden", role = c("aut", "cre"), 
+        comment = c(ORCID = "0000-0001-5820-8638"), email = "robinvanemden@gmail.com"),
+    person("Maurits", "Kaptein", role = "ctb", email = "m.c.kaptein@tilburguniversity.edu", 
+        comment = c(ORCID = "0000-0002-6316-7524")))
+Maintainer: Robin van Emden <robinvanemden@gmail.com>
+Description: R package facilitating the export of fitted statistical models to Scailable.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Depends:
+    R (>= 3.5.0)
+Imports:
+    zip,
+    stringr,
+    jsonlite,
+    httr,
+    yaml,
+    uuid
+Suggests:
+    BART,
+    testthat,
+    covr,
+    devtools,
+    usethis,
+    knitr
+VignetteBuilder: knitr
+URL: https://github.com/scailable/sclblR
+BugReports: https://github.com/scailable/sclblR/issues
+Roxygen: list(markdown = TRUE)

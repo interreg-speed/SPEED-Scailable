@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "wasi_test.wasm.h": "c",
+        "hello_wasi.h": "c",
+        "random": "c",
+        "*.idl": "c",
+        "array": "c",
+        "bitset": "c",
+        "deque": "c",
+        "initializer_list": "c",
+        "list": "c",
+        "queue": "c",
+        "regex": "c",
+        "stack": "c",
+        "type_traits": "c",
+        "valarray": "c",
+        "vector": "c",
+        "xhash": "c",
+        "xstring": "c",
+        "xtree": "c",
+        "xutility": "c",
+        "codecvt": "cpp",
+        "xlocale": "cpp",
+        "functional": "cpp",
+        "optional": "cpp",
+        "xtr1common": "cpp",
+        "*.ipp": "cpp",
+        "string": "cpp"
+    },
+    "idf.portWin": "COM4"
+}
