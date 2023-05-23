@@ -1,4 +1,4 @@
-Minor refactoring of private functions.
+Minor refactoring of private functions. 
 
 ## Test environments
 
