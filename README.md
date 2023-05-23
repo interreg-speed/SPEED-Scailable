@@ -5,4 +5,6 @@ By leveraging the capabilities of the Sclbl platform, ports can develop custom f
 
 ## Pilot project with Lille Polytech: Crack Detection in Port Structures
 
+https://github.com/interreg-speed/SPEED-Scailable/tree/master/sclbl-esp32-crackdetection
+
 ![1325611677962261615](https://github.com/interreg-speed/SPEED-sclbl-custom/assets/95014/c944a59e-6b6d-4007-8d4e-6dc416c264ba)
